@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "safe-anything": {
+      "command": "npx",
+      "args": ["-y", "safe-anything", "mcp"]
+    }
+  }
+}
